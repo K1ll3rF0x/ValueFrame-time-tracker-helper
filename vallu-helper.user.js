@@ -6,10 +6,14 @@
 // @author       Toni Dahl
 // @license      MIT
 // @match        https://guidance.solita.fi/*selite*aika*
-// @run-at       document-body
 // @grant        GM_getTab
 // @grant        GM_saveTab
 // @grant        GM_getTabs
+// @run-at       document-body
+
+// @homepageURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper#readme
+// @supportURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/issues
+// @downloadURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/raw/master/vallu-helper.user.js
 // ==/UserScript==
 
 (function () {
