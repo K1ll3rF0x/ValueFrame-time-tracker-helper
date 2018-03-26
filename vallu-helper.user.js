@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vallu Time Tracker Helper
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Fills "selite" (description) and "time" (aika) fields using url params: &selite=... ja &aika=... and saves the changes automatically.
 // @author       Toni Dahl
 // @license      MIT
@@ -162,3 +162,4 @@
             });
     });
 })();
+
