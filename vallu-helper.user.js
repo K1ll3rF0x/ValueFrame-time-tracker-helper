@@ -13,6 +13,7 @@
 
 // @homepageURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper#readme
 // @supportURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/issues
+// @updateURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/raw/master/vallu-helper.user.js
 // @downloadURL https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/raw/master/vallu-helper.user.js
 // ==/UserScript==
 
