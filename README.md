@@ -7,10 +7,10 @@ during a work day.
 
 ## Install (TamperMonkey / Chrome)
 
-1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) plugin for.
+1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) plugin.
 1. Navigate to [https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/raw/master/vallu-helper.user.js](https://github.com/K1ll3rF0x/ValueFrame-time-tracker-helper/raw/master/vallu-helper.user.js)
     -> Tampermonkey script install page should open.
-1. Install script
+1. Install script.
 
 
 ## Usage
