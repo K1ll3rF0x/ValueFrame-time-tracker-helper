@@ -15,7 +15,7 @@ during a work day.
 
 ## Usage
 
-By navigating to url such as: https://guidance.solita.fi/tunnit/tunnit.cgi?henkilo=&tehtavaid=12345&tyonumero=1234&selite=job%20description&aika=0.5
+By navigating to an url such as: https://yourValueFrameBasePath.com/tunnit/tunnit.cgi?henkilo=&tehtavaid=12345&tyonumero=1234&selite=job%20description&aika=0.5
 your task is filled in and saved automatically.
 
 The description of the task is provided via "selite" url parameter and the time spent for the task is provided via "aika" url parameter (in hours).
